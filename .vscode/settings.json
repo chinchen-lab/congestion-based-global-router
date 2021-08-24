@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "optional": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "exception": "cpp",
+        "memory_resource": "cpp",
+        "cmath": "cpp",
+        "new": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "list": "cpp"
+    }
+}
